@@ -1,5 +1,5 @@
 <?php
- $connect = mysqli_connect("localhost", "lpqipb_sim", "@LoN-@LoN_asal_kelakon", "lpqipb_sim");
+ $connect = mysqli_connect("localhost", "sim-lpq", "sim-lpq", "sim-lpq-0");
  if (!$connect) {
     die("Gagal koneksi ke database.\n" . mysqli_connect_error());
 }
