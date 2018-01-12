@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id_admin`, `username`, `password`, `foto_profil`) VALUES
-(1, 'admin', '456b7016a916a4b178dd72b947c152b7', 'default.png');
+(1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'default.png');
 
 -- --------------------------------------------------------
 
